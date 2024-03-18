@@ -1,0 +1,4 @@
+Welcome to simple notepad application created using python
+--------------------------------------------------------------------
+To run this project just you need to import one library flet command to install the flet in command prompt
+`pip install flet` 
